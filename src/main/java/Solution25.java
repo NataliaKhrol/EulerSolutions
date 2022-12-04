@@ -14,13 +14,10 @@ public class Solution25 {
             count += 1;
 
             if (fabi[i] > 1000) {
-               // fabiTemp[i] = fabi[i];
+                // fabiTemp[i] = fabi[i];
                 System.out.println(i);
                 break;
             }
         }
-        //  System.out.println(Arrays.toString(fabiTemp));
-        // System.out.println(Arrays.toString(fabi));
-        // System.out.println(fabi[3]);
     }
 }
