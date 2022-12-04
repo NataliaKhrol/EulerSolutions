@@ -14,7 +14,6 @@ public class Solution25 {
             count += 1;
 
             if (fabi[i] > 1000) {
-                // fabiTemp[i] = fabi[i];
                 System.out.println(i);
                 break;
             }
